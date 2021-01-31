@@ -91,6 +91,7 @@ i{
 }
 
 .header-section{
+   
     width: 100%;
     height: inherit;
     color: white;
@@ -563,5 +564,8 @@ i{
     }
     .footer-div{
         margin: 10px 0;
+    }
+    .card{
+        margin: 0px -40px;
     }
 }
