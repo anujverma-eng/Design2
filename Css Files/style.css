@@ -568,4 +568,7 @@ i{
     .card{
         margin: 0px -40px;
     }
+    .header-section{
+        margin-top: -80px!important;
+    }
 }
